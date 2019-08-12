@@ -1,0 +1,145 @@
+train (t-202dep3vtx3adr58a3p2cry30) {
+  utterance ("[g:Results] (경기도인재개발원경기연구원 경기도평생교육진흥원 경기도가족여성연구원)[v:Origin]에서 (수일 여중한빛현요양병원 경기도 과학 교육원)[v:Destination]가는 (관악 01)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제와")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561305230216)
+}
+train (t-2252rri5z8tyx6z16ldmab1q0) {
+  utterance ("[g:Results] (경기도인재개발원 경기연구원 경기도평생교육진흥원 경기도가족여성연구원)[v:Origin]에서 (수일여중 한빛현 요양병원 경기도 과학 교육원)[v:Destination]가는 (일산 1000)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561304703019)
+}
+train (t-23zcfrovy85rlvgf7wt1c5zxk) {
+  utterance ("[g:Results] (경기도인재개발원 경기연구원 경기도평생교육진흥원 경기도가족여성연구원)[v:Origin]에서 (수일 여중 한빛현 요양 병원 경기도 과학교육원)[v:Destination]가는 (일산 1000)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제와")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561304711531)
+}
+train (t-245emkg5u52j58l71grb3fzo8) {
+  utterance ("[g:Results] (경기도인재개발원경기연구원경기도평생교육진흥원경기도가족여성연구원)[v:Origin]에서 (수일 여중한빛현요양병원 경기도 과학 교육원)[v:Destination]가는 (일산 1000)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561305654687)
+}
+train (t-26ta94553t7zhapcbapv08usy) {
+  utterance ("[g:Results] (경기도 인재개발원 경기 연구원 경기도 평생 교육 진흥원 경기도 가족 여성 연구원)[v:Origin]에서 (수일여중 한빛현 요양병원 경기도 과학 교육원)[v:Destination]가는 (일산 1000)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561301997661)
+}
+train (t-27vl5exdzt7rwkkmacik9gccx) {
+  utterance ("[g:Results] (경기도 인재개발원 경기 연구원 경기도평생 교육 진흥원 경기도 가족여성 연구원)[v:Origin]에서 (수일여중한빛현 요양병원경기도과학교육원)[v:Destination]가는 (300)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561302797493)
+}
+train (t-27zx9ya3e6y9hi35i29xdun9w) {
+  utterance ("[g:Results] (경기도인재개발원경기연구원 경기도평생교육진흥원 경기도가족여성연구원)[v:Origin]에서 (수일 여중 한빛현 요양병원경기도과학교육원)[v:Destination]가는 (300)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제와")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561305265122)
+}
+train (t-280kq2uu66y0otdza92vs4l4l) {
+  utterance ("[g:Results] (경기도인재개발원 경기연구원 경기도평생교육진흥원 경기도가족여성연구원)[v:Origin]에서 (수일여중한빛현요양병원경기도과학교육원)[v:Destination]가는 (일산 1000)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제와")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561304982362)
+}
+train (t-28ex5oyju3a1ai0mb2sehm3xv) {
+  utterance ("[g:Results] (경기도 인재 개발원 경기 연구원 경기도 평생 교육 진흥원 경기도 가족 여성 연구원)[v:Origin]에서 (수일여중한빛현 요양병원경기도과학교육원)[v:Destination]가는 (관악 01)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561301427438)
+}
+train (t-2bo5dr8nnyil53ifzhtssnvo6) {
+  utterance ("[g:Results] (경기도인재개발원경기연구원경기도평생교육진흥원경기도가족여성연구원)[v:Origin]에서 (수일 여중 한빛현 요양 병원 경기도 과학교육원)[v:Destination]가는 (300)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561305663052)
+}
+train (t-2bvosxn6doec05yogs8ixhulu) {
+  utterance ("[g:Results] (경기도인재개발원경기연구원 경기도평생교육진흥원 경기도가족여성연구원)[v:Origin]에서 (수일 여중 한빛현 요양 병원 경기도 과학교육원)[v:Destination]가는 (관악 01)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제와")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561305187566)
+}
+train (t-2cxskryu60fetqrakq7l942f6) {
+  utterance ("[g:Results] (경기도 인재 개발원 경기 연구원 경기도평생 교육 진흥원 경기도 가족여성 연구원)[v:Origin]에서 (수일 여중한빛현요양병원 경기도 과학 교육원)[v:Destination]가는 (일산 1000)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561302342616)
+}
+train (t-2dchz3njuuuqeagoqd9w6vhbf) {
+  utterance ("[g:Results] (경기도인재개발원경기연구원경기도평생교육진흥원경기도가족여성연구원)[v:Origin]에서 (수일 여중 한빛현 요양병원경기도과학교육원)[v:Destination]가는 (종로01)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561305726667)
+}
+train (t-2e8sm1ggxxsrwzadyg5tcbq74) {
+  utterance ("[g:Results] (경기도 인재개발원 경기 연구원 경기도 평생 교육 진흥원 경기도 가족 여성 연구원)[v:Origin]에서 (수일여중한빛현 요양병원경기도과학교육원)[v:Destination]가는 (관악 01)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561302222140)
+}
+train (t-2edolv501zz8m09sm02pnt2fz) {
+  utterance ("[g:Results] (경기도 인재개발원 경기연구원 경기도 평생교육진흥원경기도가족여성연구원)[v:Origin]에서 (수일 여중 한빛현 요양병원경기도과학교육원)[v:Destination]가는 (일산 1000)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561304551203)
+}
+train (t-2g54nu4bx14axwewrhm9jf4gt) {
+  utterance ("[g:Results] (경기도인재 개발원경기연구원 경기도 평생교육진흥원 경기도 가족 여성 연구원)[v:Origin]에서 (수일 여중 한빛현 요양 병원 경기도 과학교육원)[v:Destination]가는 (종로01)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561303220865)
+}
+train (t-2jtx03jso8fo1jseoqfo4q2x2) {
+  utterance ("[g:Results] (경기도인재개발원 경기연구원 경기도 평생교육 진흥원 경기도 가족 여성 연구원)[v:Origin]에서 (수일 여중 한빛현 요양 병원 경기도 과학 교육원)[v:Destination]가는 (일산 1000)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561302853288)
+}
+train (t-2lg2jv3p18u9ij44zudm75dlz) {
+  utterance ("[g:Results] (경기도인재개발원경기연구원경기도평생교육진흥원경기도가족여성연구원)[v:Origin]에서 (수일여중한빛현요양 병원 경기도과학교육원)[v:Destination]가는 (일산 1000)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561305723469)
+}
+train (t-2q56csv0wvlto2e2pk7u11z90) {
+  utterance ("[g:Results] (경기도 인재 개발원 경기 연구원 경기도 평생 교육 진흥원 경기도 가족 여성 연구원)[v:Origin]에서 (수일 여중한빛현요양병원 경기도 과학 교육원)[v:Destination]가는 (관악 01)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561301694623)
+}
+train (t-2qphsb3c6km00u6qycp8ua275) {
+  utterance ("[g:Results] (경기도 인재 개발원 경기 연구원 경기도 평생 교육 진흥원 경기도 가족 여성 연구원)[v:Origin]에서 (수일 여중한빛현요양병원 경기도 과학 교육원)[v:Destination]가는 (종로01)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제와")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561301693536)
+}
+train (t-2rb3pgxlsme1san2g0o43cdht) {
+  utterance ("[g:Results] (삼성의료원)[v:Origin]에서 (암센터정문)[v:Destination]가는 (강남 공 1)[v:BusNumber]번이랑  (강남 공 1)[v:BusNumber]번이랑  (강남 공 1)[v:BusNumber]번이랑  (강남 공 1)[v:BusNumber]번 버스 언제와")
+  plan (Y+BkEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KL6ColjS7lklpckpmXWJKZn8cghi7pX5SZnpnHwMHAyMDEwMzAwsDKwMbADuQzgEUgkBEMGRh4oBAC2IGYGaiaFagLrAMA)
+  last-modified (1561363628124)
+}
+train (t-2rh0pny06ltx2u1v90jcuc0iq) {
+  utterance ("[g:Results] (경기도 인재개발원 경기 연구원 경기도 평생 교육 진흥원 경기도 가족 여성 연구원)[v:Origin]에서 (수일여중한빛현요양병원경기도과학교육원)[v:Destination]가는 (일산 1000)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제와")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561302217945)
+}
+train (t-2s5gwgzlpu5op4ww73oj5t2ol) {
+  utterance ("[g:Results] (경기도 인재개발원 경기 연구원 경기도 평생 교육 진흥원 경기도 가족 여성 연구원)[v:Origin]에서 (수일 여중 한빛현 요양 병원 경기도 과학 교육원)[v:Destination]가는 (종로01)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제와")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561301848598)
+}
+train (t-2tl5we2zxvwyqzah1wkitz0tw) {
+  utterance ("[g:Results] (경기도인재개발원경기연구원 경기도평생교육 진흥원 경기도 가족 여성 연구원)[v:Origin]에서 (수일여중 한빛현 요양병원 경기도 과학 교육원)[v:Destination]가는 (관악 01)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561303566346)
+}
+train (t-2uv32xwrhas470js91kbzw15t) {
+  utterance ("[g:Results] (경기도인재 개발원경기연구원 경기도 평생교육진흥원 경기도 가족 여성 연구원)[v:Origin]에서 (수일 여중 한빛현 요양 병원 경기도 과학 교육원)[v:Destination]가는 (300)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561303226032)
+}
+train (t-2x3lxk757pex3tqmvra2htufo) {
+  utterance ("[g:Results] (경기도 인재개발원 경기 연구원 경기도평생 교육 진흥원 경기도 가족여성 연구원)[v:Origin]에서 (수일 여중 한빛현 요양병원경기도과학교육원)[v:Destination]가는 (일산 1000)[v:BusNumber]번 버스 언제와")
+  plan (Y2BlEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJf2LMtMz8xhYGBgZmBiYgTQDkAWBMAASg8oBAA==)
+  last-modified (1561302730736)
+}
+train (t-2xg5ehp5ixq2f6uf8hva14aeb) {
+  utterance ("[g:Results] (경기도 인재개발원 경기 연구원 경기도평생 교육 진흥원 경기도 가족여성 연구원)[v:Origin]에서 (수일 여중한빛현요양병원 경기도 과학 교육원)[v:Destination]가는 (종로01)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제와")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561302734894)
+}
+train (t-2zebm7cqznfldfjr6awhakjy8) {
+  utterance ("[g:Results] (경기도 인재 개발원 경기 연구원 경기도평생 교육 진흥원 경기도 가족여성 연구원)[v:Origin]에서 (수일 여중한빛현요양병원 경기도 과학 교육원)[v:Destination]가는 (300)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제와")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561302387900)
+}
+train (t-2zr6aymhodc1txrb20ebaex3z) {
+  utterance ("[g:Results] (경기도인재개발원경기연구원 경기도평생교육진흥원경기도가족여성연구원)[v:Origin]에서 (수일여중한빛현요양병원경기도과학교육원)[v:Destination]가는 (관악 01)[v:BusNumber]번 (저상버스)[v:LowTag:true] 언제와")
+  plan (Y2BjEE8qLU6q1AOSaZl5KalFekGpxaU5JcWYEk6lxSGZuakMklgk/Epzk1KLGKTRpVxSi0sy8xJLMvPzGMTQJX3yy0MS0zHF/Ysy0zPzGFgZGBmYGJgZWIAsBiAbBhEAJA5XAQA=)
+  last-modified (1561305595630)
+}
