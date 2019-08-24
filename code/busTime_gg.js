@@ -1,6 +1,6 @@
 module.exports.function = function gg (origin, destination, busNumber) {
-  origin = origin.replace(/ /gi,"")
-  destination = destination.replace(/ /gi,"")
+  origin = origin.replace(/ \./gi,"")
+  destination = destination.replace(/ \./gi,"") 
 
   const ggKey = secret.get('ggKey')
   const apiKey = ggKey
@@ -50,9 +50,7 @@ module.exports.function = function gg (origin, destination, busNumber) {
     let response =  getRequestXml(url)
     if(checkederror == false){
       if (response.parsed.response.msgBody.busRouteList.routeName) {       
-        // 수정
         if(response.parsed.response.msgBody.busRouteList.routeName.replace(/\([^()]*\)/,"") == busNumber){          
-          // 수정 끝
           routeId = response.parsed.response.msgBody.busRouteList.routeId
           find = getstationID(routeId)
           if(find){
@@ -105,18 +103,17 @@ module.exports.function = function gg (origin, destination, busNumber) {
 
     let startFlag = false
     let endFlag = false
-
-    numOfStation = 0
+    
     for (let i=0; i<requestStopList.length; i++) {
-      if (origin == requestStopList[i].stationName.replace(/[\{\}\[\]\/?.,;:|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]/gi, "")) {
+      if (origin.toLowerCase() == requestStopList[i].stationName.replace(/[\{\}\[\]\/?.,;:|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]/gi, "").toLowerCase()) {
         stationId = requestStopList[i].stationId
         startFlag = true
-      }else if(startFlag){
-        numOfStation += 1
-      } 
-      if (startFlag && destination == requestStopList[i].stationName.replace(/[\{\}\[\]\/?.,;:|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]/gi, "")) {
+        numOfStation = 1
+      } else if(startFlag && destination.toLowerCase() == requestStopList[i].stationName.replace(/[\{\}\[\]\/?.,;:|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]/gi, "").toLowerCase()){
         endFlag = true
         break
+      } else if(startFlag){
+        numOfStation += 1
       }
     }
 
@@ -194,7 +191,7 @@ module.exports.function = function gg (origin, destination, busNumber) {
       result.errorMsg = busNumber[i]+"는 존재하지 않습니다."
     }else{
       if(find == false){
-        result.errorMsg = "정류장 정보가 잘 못 되었습니다."
+        result.errorMsg = "해당 정류장에 해당 버스가 없어요.."
       }else{
         result.numOfStation = numOfStation
         getarrivetime(routeId, stationId, result)

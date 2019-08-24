@@ -135,7 +135,7 @@ module.exports.function = function seoul (origin, destination, busNumber, lowTag
         continue
       } else {
         results.result.push({
-          errorMsg: "정류장 정보가 잘 못 되었습니다."
+          errorMsg: "해당 정류장에 해당 버스가 없어요."
         })
         continue
       }
@@ -181,7 +181,7 @@ module.exports.function = function seoul (origin, destination, busNumber, lowTag
     }
     if (!find){
       results.result.push({
-        errorMsg: "정류장 정보가 잘 못 되었습니다."
+        errorMsg: "해당 정류장에 해당 버스가 없어요."
       })
     }
   }
